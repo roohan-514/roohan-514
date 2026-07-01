@@ -65,6 +65,13 @@ I'm a passionate developer with diverse interests spanning Artificial Intelligen
 
 ---
 
+> 💡 **Tip:** For hover tooltips on stats & language bars, deploy your own instance:
+> 1. Go to [github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+> 2. Click the **Deploy** button (Vercel) — takes 2 minutes
+> 3. Replace `github-readme-stats.vercel.app` in the URLs above with `your-app.vercel.app`
+
+---
+
 ## 🐍 CONTRIBUTIONS
 
 <p align="center">
