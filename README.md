@@ -36,10 +36,10 @@ I'm a passionate developer with diverse interests spanning Artificial Intelligen
 | AI-powered attendance system using facial recognition for automated, contactless check-ins. | Medical diagnostic assistant leveraging AI to assist in preliminary health assessments. | Robust payment and subscription management system integrated with Stripe API. |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white) |
 
-| 🤖 **[AI Resume & Career Assistant](https://github.com/roohan-514/ai-resume-assistant)** |
-|---|
-| AI-powered career assistant that helps build resumes, prepare for interviews, and discover career paths. |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
+| 🤖 **[AI Resume & Career Assistant](https://github.com/roohan-514/ai-resume-assistant)** | 😴 **[Driver Drowsiness & Identity Monitoring](https://github.com/roohan-514/Driver-Drowsiness-Identity-Monitoring-System)** | 🎮 **[Multiplayer FPS Game](https://github.com/roohan-514/multiplayer-game)** |
+|---|---|---|
+| AI-powered career assistant that helps build resumes, prepare for interviews, and discover career paths. | Real-time driver monitoring using computer vision for drowsiness, yawning, and phone usage detection. | Browser-based 3D multiplayer first-person shooter with AI bots, voice chat, and CS-style maps. |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=222) | ![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white) |
 
 > 👉 See pinned repos below for live demos and code!
 
@@ -47,9 +47,9 @@ I'm a passionate developer with diverse interests spanning Artificial Intelligen
 
 ## 🏆 HIGHLIGHTS
 
-| 🎙️ Deepfake Audio Detection | 👤 Facial Recognition | 🛒 E-commerce Platform | 🏥 Medical AI |
+| 🎙️ Deepfake Audio Detection | 👤 Facial Recognition | 😴 Driver Drowsiness Monitoring | 🎮 Multiplayer FPS Game |
 |---|---|---|---|
-| VGG16-based transformer model for Urdu audio forensics | AI-powered automated attendance system | Shopify multi-store with unified management | AI diagnostic assistant for health assessments |
+| VGG16-based transformer model for Urdu audio forensics | AI-powered automated attendance system | CV-based drowsiness, yawning & phone detection | Browser-based 3D FPS with bots and voice chat |
 
 ---
 
