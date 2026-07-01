@@ -40,21 +40,15 @@ I'm a passionate developer with diverse interests spanning Artificial Intelligen
 |---|---|---|
 | AI-powered career assistant that helps build resumes, prepare for interviews, and discover career paths. | Real-time driver monitoring using computer vision for drowsiness, yawning, and phone usage detection. | Browser-based 3D multiplayer first-person shooter with AI bots, voice chat, and CS-style maps. |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=222) | ![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white) |
-
-| ⚡ **[AutoForge](https://github.com/roohan-514/AUTOFORGE)** | 🅿️ **[Car Parking Controller](https://github.com/roohan-514/CAR-PARKING-CONTROLLER-DLD-)** |
-|---|---|
-| AI-powered code automation platform that generates REST APIs, database schemas, and executable code from plain English descriptions. | Digital Logic Design project implementing a car parking controller system with entry/exit management. |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Claude](https://img.shields.io/badge/Claude-412991?style=flat-square&logo=anthropic&logoColor=white) | ![Logisim](https://img.shields.io/badge/Logisim-FF6F00?style=flat-square&logo=circuitverse&logoColor=white) ![Digital Logic](https://img.shields.io/badge/Digital_Logic-013243?style=flat-square&logo=verilog&logoColor=white) |
-
 > 👉 See pinned repos below for live demos and code!
 
 ---
 
 ## 🏆 HIGHLIGHTS
 
-| 🎙️ Deepfake Audio Detection | 😴 Driver Drowsiness Monitoring | ⚡ AutoForge | 🅿️ Car Parking Controller |
+| 🎙️ Deepfake Audio Detection | 👤 Facial Recognition | 😴 Driver Drowsiness Monitoring | 🎮 Multiplayer FPS Game |
 |---|---|---|---|
-| VGG16-based transformer model for Urdu audio forensics | CV-based drowsiness, yawning & phone detection | AI code automation from plain English | DLD-based parking management system |
+| VGG16-based transformer model for Urdu audio forensics | AI-powered automated attendance system | CV-based drowsiness, yawning & phone detection | Browser-based 3D FPS with bots and voice chat |
 
 ---
 
@@ -73,7 +67,14 @@ I'm a passionate developer with diverse interests spanning Artificial Intelligen
 
 ## 🐍 CONTRIBUTIONS
 
-![github contribution grid snake animation](https://github.com/roohan-514/roohan-514/raw/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <a href="https://github.com/roohan-514/AUTOFORGE">
+    <img src="https://img.shields.io/badge/AutoForge-FF6F00?style=for-the-badge&logo=github&logoColor=white" alt="AutoForge" />
+  </a>
+  <a href="https://github.com/roohan-514/CAR-PARKING-CONTROLLER-DLD-">
+    <img src="https://img.shields.io/badge/Car_Parking_Controller-008CDD?style=for-the-badge&logo=github&logoColor=white" alt="Car Parking Controller" />
+  </a>
+</p>
 
 ---
 
