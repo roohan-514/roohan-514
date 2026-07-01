@@ -23,9 +23,9 @@ I'm a passionate developer with diverse interests spanning Artificial Intelligen
 
 ## ⭐ LATEST PROJECTS
 
-| 🎙️ **[Urdu Deepfake Audio Detection]** | 🛒 **[Shopify Multi-Store E-commerce Platform]** |
-|---|---|
-| **[Urdu Deepfake Audio Detection](https://github.com/roohan-514/urdu-deepfake-audio-detection)**<br/>Detecting deepfake Urdu audio using VGG16-based transformer models for robust audio forensics. <br/><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![VGG16](https://img.shields.io/badge/VGG16-013243?style=flat-square&logo=numpy&logoColor=white) | **[Shopify Multi-Store Platform](https://github.com/roohan-514/shopify-multi-store)**<br/>A scalable multi-store e-commerce platform with unified inventory and order management. <br/><br/>![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| 🎙️ **[Urdu Deepfake Audio Detection]** | 🏥 **[ICU Monitoring System]** |
+|---|---|---|
+| **[Urdu Deepfake Audio Detection](https://github.com/roohan-514/urdu-deepfake-audio-detection)**<br/>Detecting deepfake Urdu audio using VGG16-based transformer models for robust audio forensics. <br/><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![VGG16](https://img.shields.io/badge/VGG16-013243?style=flat-square&logo=numpy&logoColor=white) | **[ICU Monitoring System](https://github.com/roohan-514/ICU-MONITORING-SYSTEM)**<br/>AI-powered real-time ICU patient monitoring with XGBoost risk prediction, clinical alerts, and automated reports. <br/><br/>![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-150458?style=flat-square&logo=xgboost&logoColor=white) |
 
 ---
 
