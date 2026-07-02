@@ -31,7 +31,7 @@ I'm a passionate developer with diverse interests spanning Artificial Intelligen
 
 ## 🔥 MORE PROJECTS
 
-| 👤 **[AI Facial Recognition Attendance](https://github.com/roohan-514/facial-recognition-attendance)** | 🏥 **[Medical AI Diagnostic Assistant](https://github.com/roohan-514/medical-ai-diagnostic)** | 💳 **[Stripe Payment & Subscription System](https://github.com/roohan-514/stripe-payment-system)** |
+| 👤 **[AI Facial Recognition Attendance](https://github.com/roohan-514/AI-Facial-Recognition-Attendance)** | 🏥 **[Medical AI Diagnostic Assistant](https://github.com/roohan-514/medical-ai-diagnostic)** | 💳 **[Stripe Payment & Subscription System](https://github.com/roohan-514/stripe-payment-system)** |
 |---|---|---|
 | AI-powered attendance system using facial recognition for automated, contactless check-ins. | Medical diagnostic assistant leveraging AI to assist in preliminary health assessments. | Robust payment and subscription management system integrated with Stripe API. |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white) |
