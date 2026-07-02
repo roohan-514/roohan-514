@@ -31,6 +31,11 @@ I'm a passionate developer with diverse interests spanning Artificial Intelligen
 
 ## 🔥 MORE PROJECTS
 
+| 🤖 **[RAG Chatbot System](https://github.com/roohan-514/rag-chatbot-system)** | 🔄 **[MLOps Production Pipeline](https://github.com/roohan-514/mlops-production-pipeline)** | ✅ **[AI Code Review Assistant](https://github.com/roohan-514/ai-code-review-assistant)** |
+|---|---|---|
+| RAG chatbot that answers questions based on your documents using LangChain & ChromaDB. | End-to-end MLOps pipeline with MLflow tracking, Docker, monitoring, and drift detection. | AI-powered code reviewer that finds bugs, vulnerabilities, and suggests improvements. |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+
 | 👤 **[AI Facial Recognition Attendance](https://github.com/roohan-514/AI-Facial-Recognition-Attendance)** | 🏥 **[Medical AI Diagnostic Assistant](https://github.com/roohan-514/medical-ai-diagnostic)** | 💳 **[Stripe Payment & Subscription System](https://github.com/roohan-514/stripe-payment-system)** |
 |---|---|---|
 | AI-powered attendance system using facial recognition for automated, contactless check-ins. | Medical diagnostic assistant leveraging AI to assist in preliminary health assessments. | Robust payment and subscription management system integrated with Stripe API. |
@@ -46,9 +51,13 @@ I'm a passionate developer with diverse interests spanning Artificial Intelligen
 
 ## 🏆 HIGHLIGHTS
 
-| 🎙️ Deepfake Audio Detection | 👤 Facial Recognition | 😴 Driver Drowsiness Monitoring | 🎮 Multiplayer FPS Game |
+| 🎙️ Deepfake Audio Detection | 🤖 RAG Chatbot | 🔄 MLOps Pipeline | ✅ AI Code Review |
 |---|---|---|---|
-| VGG16-based transformer model for Urdu audio forensics | AI-powered automated attendance system | CV-based drowsiness, yawning & phone detection | Browser-based 3D FPS with bots and voice chat |
+| VGG16-based transformer model for Urdu audio forensics | LangChain + ChromaDB document QA system | MLflow + Docker production ML pipeline | OpenAI-powered code analysis & security scan |
+
+| 👤 Facial Recognition | 😴 Driver Drowsiness Monitoring | 🏥 Medical AI Diagnostic | 🎮 Multiplayer FPS Game |
+|---|---|---|---|
+| AI-powered automated attendance system | CV-based drowsiness, yawning & phone detection | TensorFlow-based health assessment assistant | Browser-based 3D FPS with bots and voice chat |
 
 ---
 
@@ -100,26 +109,46 @@ I'm a passionate developer with diverse interests spanning Artificial Intelligen
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=222)
+![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 **Databases & Backend Services**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logo=chromadb&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
-**Developer Tools**
+**Developer Tools & DevOps**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+
+**AI & ML**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=222)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
 ---
 
