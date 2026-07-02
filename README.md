@@ -9,23 +9,22 @@
 I'm a passionate developer with diverse interests spanning Artificial Intelligence, Machine Learning, Computer Vision, Deep Learning, Data Science, Full-Stack Web Development, Cloud Computing, and Blockchain Technology.
 
 - 🔭 Building AI-powered real-world applications
-- 📚 Learning advanced system design and backend architecture
-- 🌐 Developing full-stack web applications with React, Node.js, and SQL
-- ⚡ Practicing Data Structures & Algorithms through LeetCode
-- 🤖 Exploring facial recognition and medical AI systems
-- 🎮 Gaming
-- 📚 Learning emerging technologies
-- 💡 Building personal coding projects
-- 💼 Open to collaboration and opportunities
-- 🧠 Interested in: Artificial Intelligence, Machine Learning, Computer Vision, Deep Learning, Data Science, Full-Stack Web Development, Cloud Computing, Blockchain Technology
+- 📐 Documenting system design & architecture for production systems
+- 🌐 Developing full-stack web apps with React, Node.js, and FastAPI
+- ✍️ Writing technical blog posts about AI/ML engineering
+- 🌍 Contributing to open source with CLI tools and utilities
+- 🤖 Exploring RAG, LLMs, computer vision, and medical AI
+- 🎮 Building multiplayer games with Three.js and WebRTC
+- 💡 Open to collaboration, freelance, and opportunities
+- 🧠 Interested in: AI/ML Engineering, System Design, MLOps, Computer Vision, RAG, Full-Stack Development, Cloud Computing, Open Source
 
 ---
 
 ## ⭐ LATEST PROJECTS
 
-| 🎙️ **[Urdu Deepfake Audio Detection]** | 🏥 **[ICU Monitoring System]** |
-|---|---|
-| **[Urdu Deepfake Audio Detection](https://github.com/roohan-514/urdu-deepfake-audio-detection)**<br/>Detecting deepfake Urdu audio using VGG16-based transformer models for robust audio forensics. <br/><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![VGG16](https://img.shields.io/badge/VGG16-013243?style=flat-square&logo=numpy&logoColor=white) | **[ICU Monitoring System](https://github.com/roohan-514/ICU-MONITORING-SYSTEM)**<br/>AI-powered real-time ICU patient monitoring with XGBoost risk prediction, clinical alerts, and automated reports. <br/><br/>![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-150458?style=flat-square&logo=xgboost&logoColor=white) |
+| 🎙️ **[Urdu Deepfake Audio Detection]** | 🏥 **[ICU Monitoring System]** | 📐 **[System Design & Architecture]** |
+|---|---|---|---|
+| **[Urdu Deepfake Audio Detection](https://github.com/roohan-514/urdu-deepfake-audio-detection)**<br/>Detecting deepfake Urdu audio using VGG16-based transformer models for robust audio forensics. <br/><br/>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![VGG16](https://img.shields.io/badge/VGG16-013243?style=flat-square&logo=numpy&logoColor=white) | **[ICU Monitoring System](https://github.com/roohan-514/ICU-MONITORING-SYSTEM)**<br/>AI-powered real-time ICU patient monitoring with XGBoost risk prediction, clinical alerts, and automated reports. <br/><br/>![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-150458?style=flat-square&logo=xgboost&logoColor=white) | **[System Design & Architecture](https://github.com/roohan-514/system-design-architecture)**<br/>In-depth architecture documentation for production AI/ML systems with C4 diagrams, scaling analysis, and deployment strategies.<br/><br/>![Markdown](https://img.shields.io/badge/Markdown-000?style=flat-square&logo=markdown&logoColor=white) ![Diagrams](https://img.shields.io/badge/Diagrams-C4-FF6F00?style=flat-square) ![Architecture](https://img.shields.io/badge/Architecture-Design-008CDD?style=flat-square) |
 
 ---
 
@@ -45,6 +44,12 @@ I'm a passionate developer with diverse interests spanning Artificial Intelligen
 |---|---|---|
 | AI-powered career assistant that helps build resumes, prepare for interviews, and discover career paths. | Real-time driver monitoring using computer vision for drowsiness, yawning, and phone usage detection. | Browser-based 3D multiplayer first-person shooter with AI bots, voice chat, and CS-style maps. |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=222) | ![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white) |
+
+| 📐 **[System Design & Architecture](https://github.com/roohan-514/system-design-architecture)** | 🌍 **[Open Source Contributions](https://github.com/roohan-514/open-source-contributions)** | ✍️ **[Technical Blog Posts](https://github.com/roohan-514/technical-blog-posts)** |
+|---|---|---|
+| In-depth architecture docs for production AI/ML systems with C4 diagrams and scaling analysis. | OSS toolkit with gitstat CLI — generates beautiful GitHub repo analytics reports. | Technical articles about building real-world AI/ML systems and production pipelines. |
+| ![Markdown](https://img.shields.io/badge/Markdown-000?style=flat-square&logo=markdown&logoColor=white) ![Diagrams](https://img.shields.io/badge/Diagrams-C4-FF6F00?style=flat-square) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![CLI](https://img.shields.io/badge/CLI-Tool-00ADD8?style=flat-square) | ![Markdown](https://img.shields.io/badge/Markdown-000?style=flat-square&logo=markdown&logoColor=white) ![Technical Writing](https://img.shields.io/badge/Tech%20Writing-FFD21E?style=flat-square) |
+
 > 👉 See pinned repos below for live demos and code!
 
 ---
@@ -58,6 +63,10 @@ I'm a passionate developer with diverse interests spanning Artificial Intelligen
 | 👤 Facial Recognition | 😴 Driver Drowsiness Monitoring | 🏥 Medical AI Diagnostic | 🎮 Multiplayer FPS Game |
 |---|---|---|---|
 | AI-powered automated attendance system | CV-based drowsiness, yawning & phone detection | TensorFlow-based health assessment assistant | Browser-based 3D FPS with bots and voice chat |
+
+| 📐 System Design | 🌍 OSS Contributions | ✍️ Tech Blog | 🎙️ Deepfake Detection |
+|---|---|---|---|
+| C4 architecture docs for production systems | gitstat CLI + OSS contribution toolkit | 5 technical articles on AI/ML systems | VGG16 Urdu audio forensics |
 
 ---
 
