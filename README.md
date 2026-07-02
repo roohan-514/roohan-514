@@ -87,7 +87,7 @@ I'm a passionate developer with diverse interests spanning Artificial Intelligen
 ## 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/roohan-514/roohan-514/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/roohan-514/roohan-514/gh-pages/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ---
