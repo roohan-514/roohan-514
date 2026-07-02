@@ -64,8 +64,7 @@ I'm a passionate developer with diverse interests spanning Artificial Intelligen
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roohan-514&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=D85A30&title_color=D85A30&text_color=FFFFFF" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roohan-514&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=D85A30&text_color=FFFFFF" alt="Top Languages" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roohan-514&theme=github_dark" alt="Profile Summary" width="90%" />
 </p>
 
 <p align="center">
