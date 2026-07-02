@@ -64,27 +64,34 @@ I'm a passionate developer with diverse interests spanning Artificial Intelligen
 ## 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=roohan-514&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roohan-514&theme=github_dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=roohan-514&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=D85A30&title_color=D85A30&text_color=FFFFFF" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roohan-514&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=D85A30&text_color=FFFFFF" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=roohan-514&theme=tokyonight&hide_border=true&background=0d1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=roohan-514&theme=github_dark" alt="Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roohan-514&theme=github_dark" alt="Language Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=roohan-514&theme=github_dark" alt="Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=roohan-514&theme=tokyonight&hide_border=true&background=0D1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roohan-514&theme=github-dark&bg_color=0D1117&color=D85A30&line=D85A30&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="90%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=roohan-514&theme=onedark&no-frame=true&no-bg=true&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
 </p>
 
 ---
 
----
-
-## 🐍 CONTRIBUTIONS
+## 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-  <a href="https://github.com/roohan-514/AUTOFORGE">
-    <img src="https://img.shields.io/badge/AutoForge-FF6F00?style=for-the-badge&logo=github&logoColor=white" alt="AutoForge" />
-  </a>
-  <a href="https://github.com/roohan-514/CAR-PARKING-CONTROLLER-DLD-">
-    <img src="https://img.shields.io/badge/Car_Parking_Controller-008CDD?style=for-the-badge&logo=github&logoColor=white" alt="Car Parking Controller" />
-  </a>
+  <img src="https://raw.githubusercontent.com/roohan-514/roohan-514/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ---

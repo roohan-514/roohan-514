@@ -1,4 +1,4 @@
-name: Generate Snake Animation
+name: Generate Contribution Snake
 
 on:
   schedule:
@@ -20,4 +20,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-          publish_branch: output
+          destination_dir: output
