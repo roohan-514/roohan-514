@@ -82,10 +82,6 @@ I'm a passionate developer with diverse interests spanning Artificial Intelligen
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=roohan-514&theme=github-dark&bg_color=0D1117&color=D85A30&line=D85A30&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="90%" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=roohan-514&theme=onedark&no-frame=true&no-bg=true&column=8&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
-</p>
-
 ---
 
 ## 🐍 CONTRIBUTION SNAKE
