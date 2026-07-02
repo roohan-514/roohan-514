@@ -86,10 +86,6 @@ I'm a passionate developer with diverse interests spanning Artificial Intelligen
   <img src="https://streak-stats.demolab.com?user=roohan-514&theme=tokyonight&hide_border=true&background=0D1117&ring=D85A30&fire=D85A30&currStreakLabel=D85A30" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roohan-514&theme=github-dark&bg_color=0D1117&color=D85A30&line=D85A30&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" width="90%" />
-</p>
-
 ---
 
 ## 🐍 CONTRIBUTION SNAKE
