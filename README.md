@@ -16,7 +16,7 @@ I'm a passionate developer with diverse interests spanning Artificial Intelligen
 - 🤖 Exploring RAG, LLMs, computer vision, and medical AI
 - 🎮 Building multiplayer games with Three.js and WebRTC
 - 💡 Open to collaboration, freelance, and opportunities
-- 🌐 [**Portfolio**](https://roohan-514.github.io/portfolio) — Cyberpunk-themed portfolio showcasing all projects
+- 🌐 [**Portfolio**](https://roohan-514.github.io/portfolio) — Neural Network-themed portfolio showcasing all projects
 - 🧠 Interested in: AI/ML Engineering, System Design, MLOps, Computer Vision, RAG, Full-Stack Development, Cloud Computing, Open Source
 
 ---
